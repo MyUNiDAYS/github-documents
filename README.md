@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/assets/UNiDAYS_Logo.png" />
+</p>
+<br/>
+
 # Github Opensource Docs - UNiDAYS
 
 This project includes any documentation that should be included in a UNiDAYS open source project. These documents are to make the experience of contributing to UNiDAYS projects enjoyable, easier and to outline appropriate behaviour within this domain. 
