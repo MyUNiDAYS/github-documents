@@ -16,6 +16,7 @@ This document outlines the different ways you can contribute to the UNiDAYS repo
 [How Can I Contribute?](#how-can-i-contribute)
   * [Reporting Bugs](#reporting-bugs)
   * [Suggesting Enhancements](#suggesting-enhancements)
+  * [Labels For Issues](#labels-for-issues)
   * [Pull Requests](#pull-requests)
   * [Your First Code Contribution](#your-first-code-contribution)
 
@@ -35,6 +36,20 @@ When issuing a bug report please include as many of details on [the bug report t
 Enhancements may include completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
 
 First of all please do a search on the issues already present to see if it's an enhancement that hasn't previously been suggested. If it has, maybe join the discussion on the pre-existing issue. This is to help reduce duplication of issues. If it hasn't been raised previously, please include as many details as you can using [the feature request template](feature_request.md). Label the raised feature request as `enhancement`
+
+### Labels For Issues
+
+| Label       | Purpose             |
+| ------------- |:----------------:| -----:|
+| up-for-grabs     | An issue that is ready and has enough information to be picked up  |
+| docs     | An issue that only relates to writing docs |
+| easy     | Difficulty level: any level of experience can pick this issue up |
+| medium     | Difficulty level: some experience of the domain or language will be needed to pick this issue up  |
+| hard     |Difficulty level: a lot of experience of the domain or language will be needed to pick this issue up |
+| insane     | Difficulty level: you need to be a total wizard to figure this out |
+| enhancement      | Making things better but without fixing an issue     |   
+| fix  | Fixing a pre-existing problem with the code      |
+
 
 ### Pull Requests :thought_balloon:
 
@@ -73,7 +88,7 @@ For reference, [this blog](https://chris.beams.io/posts/git-commit/) encourages 
 
 ### JavaScript Styleguide
 
-A full and up to date JavaScript style guide with examples can be accessed [here](https://github.com/johnnolan/StyleGuide/tree/master/Javascript).
+A full and up to date JavaScript style guide with examples can be accessed [here](https://github.com/MyUNiDAYS/StyleGuide/tree/master/Javascript).
 
 ### CSS Styleguide
 
