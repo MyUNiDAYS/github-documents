@@ -17,7 +17,7 @@ If there is anything you think should be changed or altered, feel free to open a
 	Outlines the behaviours we do and do not tolerate, our responsibilities as maintainers and contributors, and how to action when you think the code of conduct has been broken.
 
 - [Contributing document](.github/contributing.md)
-	Guidelines on how to contribute including raising bugs or feature requests, opening pull requests and our styleguides.
+	Guidelines on how to contribute including raising bugs or feature requests, opening pull requests and our style guides.
 
 - Templates
 	For [bug reports](.github/ISSUE_TEMPLATE/bug_report.md), [feature requests](.github/ISSUE_TEMPLATE/feature_request.md) and [pull requests](./pull_request_template.md).

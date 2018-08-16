@@ -20,10 +20,10 @@ This document outlines the different ways you can contribute to the UNiDAYS repo
   * [Pull Requests](#pull-requests)
   * [Your First Code Contribution](#your-first-code-contribution)
 
-[Styleguides](#styleguides)
+[Style Guides](#style-guides)
   * [Git Commit Messages](#git-commit-messages)
-  * [JavaScript Styleguide](#javascript-styleguide)
-  * [CSS Styleguide](#css-styleguide)
+  * [JavaScript Style Guide](#javascript-style-guide)
+  * [CSS Style Guide](#css-style-guide)
 
 ## How Can I Contribute?
 
@@ -63,7 +63,7 @@ First of all please do a search on the issues already present to see if it's an 
 
 - Open a Pull Request with the details listed in the [pull request template](pull_request_template.md). The sections of this template should show in the body of any new pull request automatically. 
 
-- Please ensure that any changes you make comply with our [styleguides](#styleguides).
+- Please ensure that any changes you make comply with our [style guides](#style-guides).
 
 -	Include screenshots and animated GIFs in your pull request whenever possible.
 
@@ -73,7 +73,7 @@ First of all please do a search on the issues already present to see if it's an 
 
 We will make efforts to label issues with `beginner` if we think they should only require a few lines of code, and a test or two. This is in order to help those who want to contribute but don't necessarily have much experience in doing so.
 
-## Styleguides
+## Style Guides
 
 ### Git Commit Messages
 
@@ -90,7 +90,7 @@ For reference, [this blog](https://chris.beams.io/posts/git-commit/) encourages 
 
 A full and up to date JavaScript style guide with examples can be accessed [here](https://github.com/MyUNiDAYS/StyleGuide/tree/master/Javascript).
 
-### CSS Styleguide
+### CSS Style Guide
 
 A full and up to date css style guide with examples can be accessed [here](https://github.com/johnnolan/StyleGuide/tree/master/CSS).
 
