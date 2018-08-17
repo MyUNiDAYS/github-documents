@@ -88,7 +88,7 @@ We request that, where possible, you stick to the following format for your comm
 
 For reference, [this blog](https://chris.beams.io/posts/git-commit/) encourages a similar style.
 
-### JavaScript Styleguide
+### JavaScript Style Guide
 
 A full and up to date JavaScript style guide with examples can be accessed [here](https://github.com/MyUNiDAYS/StyleGuide/tree/master/Javascript).
 
