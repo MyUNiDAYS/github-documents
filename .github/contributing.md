@@ -24,7 +24,7 @@ This document outlines the different ways you can contribute to the UNiDAYS repo
   * [Git Commit Messages](#git-commit-messages)
   * [Documentation Style Guide](#documentation-style-guide)
   * [JavaScript Style Guide](#javascript-style-guide)
-  * [CSS Style Guide](#css-style-guide)
+  * [LESS Style Guide](#less-style-guide)
   * [xUnit Testing Style Guide](#xunit-testing-style-guide)
 
 ## How Can I Contribute?
@@ -96,9 +96,9 @@ For anything changing the user experience or externally visible implementation, 
 
 A full and up to date JavaScript style guide with examples can be accessed [here](https://github.com/MyUNiDAYS/StyleGuide/tree/master/Javascript).
 
-### CSS Style Guide
+### LESS Style Guide
 
-A full and up to date css style guide with examples can be accessed [here](https://github.com/johnnolan/StyleGuide/tree/master/CSS).
+A full and up to date css style guide with examples can be accessed [here](https://github.com/MyUNiDAYS/StyleGuide/tree/master/LESS).
 
 ## xUnit Testing Style Guide
 
