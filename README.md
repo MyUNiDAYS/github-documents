@@ -25,8 +25,9 @@ If there is anything you think should be changed or altered, feel free to open a
 ### How to use in my project
 
 - Copy the files in this repo into the root of your project. It has to go into the root for the templates to work in the expected way.
-- Prune out sections not relevant to your project. For example - if your project doesn't contain any JavaScript you may not need anything referring to guidelines on how to write JavaScript or related tests.
-- Congratulate yourself on your success.
+- Prune out sections not relevant to your project. For example - if your project doesn't contain any JavaScript you may not need anything referring to guidelines on how to write JavaScript or related tests. Remove the snyk-placeholder.py file if the repo is going into a non MyUNiDAYS location
+- Edit this README.md file so that its appropriate for your new project
+- Congratulate yourself on your success!
 
 ### I think something is missing / needs to be changed
 
